@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Config files
+config.py
+
+# Temporary files
+answer.json
+blank.py
